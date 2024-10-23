@@ -1,0 +1,3 @@
+https://developer.android.com/codelabs/basic-android-kotlin-compose-training-add-scrollable-list?hl=ko&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-3-pathway-2%3Fhl%3Dko%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-training-add-scrollable-list#0
+
+![스크린샷 2024-10-23 오후 12 39 28](https://github.com/user-attachments/assets/b3aff258-78b3-4acf-aca0-4de032dd6576)
